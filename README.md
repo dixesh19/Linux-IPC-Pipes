@@ -1,6 +1,6 @@
 # Linux-IPC--Pipes
 ## Name : Dineshkarthik N
-## RegisterName : 212223220021
+## Registernumber : 212223220021
 # Ex03-Linux IPC - Pipes
 
 # AIM:
